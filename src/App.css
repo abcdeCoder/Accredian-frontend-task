@@ -1,0 +1,12 @@
+.img{
+    width: 90%;
+    height: 90%;
+}
+
+.error{
+    color: red;
+}
+
+#eye{
+    cursor: pointer;
+}
